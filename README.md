@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/images/Duong Phu Dong Banner.png" alt="Banner" width="100%" />
+</div>
+
 # Hi, I'm Duong Phu Dong
 
 ### Software Engineer | Founder [@lab68dev](https://github.com/lab68dev)
