@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/images/" alt="Banner" width="100%" />
+  <img src="./assets/images/Duong Phu Dong Banner.gif" alt="Banner" width="100%" />
 </div>
 
 # Hi, I'm Duong Phu Dong
