@@ -14,7 +14,7 @@
 
 - I'm currently working on [**lab68dev-platform**](https://github.com/lab68dev/lab68dev-platform)
 - I'm currently learning **Software Engineering: Process and Tools** & **Software Engineering: Architecture and Design**
-- Ask me about **React, Node.js, Next.js, Python, Springboot/Java, C++**
+- Ask me about **React.js, Node.js, Next.js, Python, Springboot/Java, C++ and other related tech news**
 - All of my projects are available at: [**Duong Phu Dong Portfolio**](https://brutalist-portfolio-dong.vercel.app/)
 - Reach me at: **dongduong840@gmail.com**
 
