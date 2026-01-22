@@ -49,3 +49,8 @@ We focus on building innovative, cross-platform solutions using **React, Next.js
 ---
 
 *“Passionate about learning, building, and sharing software that makes an impact.”*
+
+### GitHub Analytics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DongDuong2001&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="DongDuong2001's GitHub Stats" width="48%" />
+</p>
