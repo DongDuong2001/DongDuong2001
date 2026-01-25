@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">Duong Phu Dong</h1>
-<h3 align="center">Software Engineer | Founder @lab68dev</h3>
+<h3 align="center">Software Engineer | Founder <a href="https://github.com/lab68dev">@lab68dev</a></h3>
 
 <p align="center">
   Software Engineer focused on building scalable, cross-platform solutions.<br>
-  Founder of <b>lab68dev</b>. Specializing in React, Next.js, Java, Python, and C++.
+  Founder of <a href="https://github.com/lab68dev"><b>lab68dev</b></a>. Specializing in React, Next.js, Java, Python, and C++.
 </p>
 
 <div align="center">
