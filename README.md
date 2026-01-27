@@ -35,7 +35,7 @@
 ### **Current Status**
 
 - 🔭 Working on: [**lab68dev-platform**](https://github.com/lab68dev/lab68dev-platform)
-- 🎓 Focusing on: **Capstone Project**
+- 🎓 Focusing on: **Capstone Project**, **Software Engineering Requirement**, **Project Management**
 - 💬 Ask me about: **React.js, Node.js, System Design, Microservices**
 - ⚡ Philosophy: **Build. Innovate. Deploy. Repeat.**
 
