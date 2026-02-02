@@ -83,8 +83,18 @@
 
 ---
 
-### **Analytics**
+### **Support & Sponsorship**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DongDuong2001&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Stats" width="48%" />
-</p>
+<div align="center">
+  <p>If you find my projects helpful or want to support my open-source work, consider sponsoring!</p>
+  
+  <a href="https://github.com/sponsors/lab68dev">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://www.buymeacoffee.com/lab68dev">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://paypal.me/DDuong884">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</div>
