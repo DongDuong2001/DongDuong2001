@@ -2,99 +2,103 @@
   <img src="./assets/images/Duong Phu Dong Banner.gif" alt="Banner" width="100%" />
 </div>
 
-<h1 align="center">Duong Phu Dong</h1>
-<h3 align="center">Software Engineer | Founder <a href="https://github.com/lab68dev">@lab68dev</a></h3>
-
-<p align="center">
-  Software Engineer focused on building scalable, cross-platform solutions.<br>
-  Founder of <a href="https://github.com/lab68dev"><b>lab68dev</b></a>. Specializing in React, Next.js, Java, Python, and C++.
-</p>
-
 <div align="center">
+  <h1>Duong Phu Dong</h1>
+  <h3>Software Engineer | Founder <a href="https://github.com/lab68dev">@lab68dev</a></h3>
+  
+  <p>
+    <b>Building scalable, cross-platform solutions.</b><br>
+    Specializing in React, Next.js, Java/Springboot, and Python.
+  </p>
 
-  <a href="https://github.com/lab68dev">
-    <img src="https://img.shields.io/badge/Organization-lab68dev-black?style=for-the-badge&logo=github&logoColor=white" alt="lab68dev" />
-  </a>
-  <a href="https://brutalist-portfolio-dong.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:dongduong840@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/duong-phu-dong/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@lab68dev">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-
+  <p>
+    <a href="https://github.com/lab68dev">
+      <img src="https://img.shields.io/badge/Organization-lab68dev-black?style=flat-square&logo=github&logoColor=white" alt="lab68dev" />
+    </a>
+    <a href="https://brutalist-portfolio-dong.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-black?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://lab68store.vercel.app/">
+      <img src="https://img.shields.io/badge/Store-Visit_Shop-black?style=flat-square&logo=vercel&logoColor=white" alt="Lab68 Store" />
+    </a>
+    <a href="https://www.linkedin.com/in/duong-phu-dong/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dongduong840@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
----
+<br />
 
-### **Current Status**
+## Professional Focus
 
-- 🔭 Working on: [**lab68dev-platform**](https://github.com/lab68dev/lab68dev-platform)
-- 🎓 Focusing on: **Capstone Project**, **Software Engineering Requirement**, **Project Management**
-- 💬 Ask me about: **React.js, Node.js, System Design, Microservices**
-- ⚡ Philosophy: **Build. Innovate. Deploy. Repeat.**
+| Area | Details |
+| :--- | :--- |
+| **Active Development** | Developing **[lab68dev-platform](https://github.com/lab68dev/lab68dev-platform)**, a comprehensive software solution. |
+| **Academic Focus** | Capstone Projects, Software Engineering Requirements, and Project Management methodologies. |
+| **Expertise** | System Design, Microservices Architecture, React.js, and Node.js ecosystems. |
+| **Core Philosophy** | Build. Innovate. Deploy. Repeat. |
 
----
+<br />
 
-### **Technical Stack**
+## Technical Stack
 
-**Languages**
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-151515?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/C++-151515?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/JavaScript-151515?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-151515?style=flat-square&logo=typescript&logoColor=3178C6" />
 </p>
 
-**Frontend & Mobile**
+### Frontend & Mobile
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-151515?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-151515?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-151515?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-151515?style=flat-square&logo=flutter&logoColor=02569B" />
 </p>
 
-**Backend & Cloud**
+### Backend & Cloud
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-151515?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Spring_Boot-151515?style=flat-square&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/Express-151515?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-151515?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-151515?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Firebase-151515?style=flat-square&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/GraphQL-151515?style=flat-square&logo=graphql&logoColor=E10098" />
 </p>
 
-**DevOps & AI**
+### DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-151515?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-151515?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-151515?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-151515?style=flat-square&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/TensorFlow-151515?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
 </p>
 
----
+<br />
 
-### **Support & Sponsorship**
+## Open Source Sponsorship
 
-<div align="center">
-  <p>If you find my projects helpful or want to support my open-source work, consider sponsoring!</p>
-  
+<p>If you find my projects helpful or wish to support my contributions to the open-source community, contributions are appreciated.</p>
+
+<p>
   <a href="https://github.com/sponsors/lab68dev">
-    <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors" />
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=flat-square&logo=github&logoColor=white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://ko-fi.com/dongphuduong">
+    <img src="https://img.shields.io/badge/Support-Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
   <a href="https://www.buymeacoffee.com/lab68dev">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <a href="https://paypal.me/DDuong884">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
-</div>
+</p>
