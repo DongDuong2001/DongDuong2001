@@ -20,7 +20,7 @@
 > Building scalable, cross-platform solutions with a focus on high-performance architecture.
 
 * **Current Mission** Architecting the **[lab68dev-platform](https://github.com/lab68dev/lab68dev-platform)**.
-* **Academic Pillars** Software Engineering Requirements and Advanced Project Management.
+* **Academic Pillars** Capstone A, Usability Engineering and Advanced Project Management.
 * **Design Philosophy** Industrial, high-contrast aesthetics with brutalist efficiency.
 
 ---
