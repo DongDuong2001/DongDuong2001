@@ -3,16 +3,11 @@
   
   <br />
 
-  <h1><code>DUONG PHU DONG</code></h1>
-  <p><strong>Founder of <a href="https://github.com/lab68dev">@lab68dev</a> | Software Engineer</strong></p>
-
-  <p>
-    <a href="https://brutalist-portfolio-dong.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://github.com/lab68dev"><img src="https://img.shields.io/badge/LAB68DEV-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/duong-phu-dong/"><img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=120&section=header&text=BUILD.%20INNOVATE.%20DEPLOY.&fontSize=30&animation=fadeIn&fontAlignY=35&fontColor=000000" width="100%" />
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=40&duration=3500&pause=1000&color=DCDCDC&center=true&vCenter=true&width=600&lines=DUONG+PHU+DONG;SOFTWARE+ENGINEER" alt="Typing SVG" />
+    </a>
+  </h1>
 </div>
 
 ## Professional Focus
@@ -59,5 +54,5 @@
 </p>
 
 <div align="right">
-  <sub>Last updated: February 2026 | <b>lab68dev studio</b></sub>
+  <sub>Last updated: February 2026 | <b>Duong Phu Dong - lab68dev Startup Owner</b></sub>
 </div>
