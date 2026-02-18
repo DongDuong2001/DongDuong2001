@@ -35,7 +35,7 @@
 ## Development Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DongDuong2001&theme=dark&hide_border=false&border_color=ffffff&background=000000&sideNums=ffffff&sideLabels=dcdcdc&dates=dcdcdc&ring=ffffff&fire=ffffff" alt="DongDuong2001 Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DongDuong2001&theme=dark&hide_border=false&border_color=ffffff&background=000000&sideNums=ffffff&sideLabels=dcdcdc&dates=dcdcdc&ring=ffffff&fire=ffffff" alt="DongDuong2001's Streak" />
 
   <br />
 
