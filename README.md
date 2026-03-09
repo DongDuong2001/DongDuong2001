@@ -19,7 +19,14 @@
 * **Design Philosophy** Industrial, high-contrast aesthetics with brutalist efficiency.
 
 ---
+## Connect
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/duong-phu-dong/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dongduong840@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 ## Technical Arsenal
 
 ### Core Languages
