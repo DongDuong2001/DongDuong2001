@@ -16,7 +16,6 @@
 
 * **Current Mission** Architecting the **[lab68dev-platform](https://github.com/lab68dev/lab68dev-platform)** and maintain **[lab68cv builder](https://lab68cvbuilder.vercel.app/en)**.
 * **Academic Pillars** Capstone A, Usability Engineering and Advanced Project Management.
-* **Design Philosophy** Industrial, high-contrast aesthetics with brutalist efficiency.
 
 ---
 ## Connect
