@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="./assets/images/Duong Phu Dong Banner.gif" alt="Banner" width="100%" />
-  
-  <br />
 
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=40&duration=3500&pause=1000&color=DCDCDC&center=true&vCenter=true&width=600&lines=DUONG+PHU+DONG;SOFTWARE+ENGINEER" alt="Typing SVG" />
-    </a>
-  </h1>
-</div>
 
 ## Professional Focus
 
