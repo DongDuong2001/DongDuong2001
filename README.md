@@ -50,5 +50,5 @@
 </p>
 
 <div align="right">
-  <sub>Last updated: February 2026 | <b>Duong Phu Dong - lab68dev Startup Owner</b></sub>
+  <sub>Last updated: April 2026 | <b>Duong Phu Dong</b></sub>
 </div>
