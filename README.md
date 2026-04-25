@@ -1,6 +1,10 @@
-## Professional Focus
+## Professional Summary
 
-Building scalable, cross-platform solutions with an emphasis on high-performance system architecture, maintainability, and clean design principles.
+Full-stack developer and technical leader specializing in scalable, high-performance systems. Experienced in designing cross-platform architectures, leading development initiatives, and delivering maintainable, production-ready solutions. Strong focus on system design, developer experience, and efficient engineering workflows.
+
+---
+
+## Professional Focus
 
 - **Current Mission**  
   Architecting the **[lab68dev-platform](https://github.com/lab68dev/lab68dev-platform)** and maintaining the **[lab68cv builder](https://lab68cvbuilder.vercel.app/en)**.
@@ -21,8 +25,6 @@ Building scalable, cross-platform solutions with an emphasis on high-performance
 
 ## Technical Expertise
 
-### Core Languages
-
 | Category | Stack |
 | :--- | :--- |
 | **Programming & Logic** | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) |
@@ -35,19 +37,19 @@ Building scalable, cross-platform solutions with an emphasis on high-performance
 ## Key Projects
 
 ### **lab68dev-platform**
-- Designed and architected a scalable, modular platform for extensible development workflows  
-- Implemented service-oriented backend with focus on performance and maintainability  
-- Integrated modern DevOps practices (Dockerized services, CI-ready structure)  
+- Architected a scalable, modular platform for extensible development workflows  
+- Designed backend services with emphasis on performance, maintainability, and clean structure  
+- Applied containerization and DevOps practices to support deployment and scalability  
 
 ### **lab68cv builder**
-- Developed a production-ready CV builder with a clean, user-centric interface  
-- Built using modern frontend stack with optimized rendering and responsiveness  
-- Focused on usability engineering principles to enhance user experience
+- Developed a production-ready CV builder with a user-focused interface  
+- Implemented responsive frontend architecture with optimized rendering performance  
+- Applied usability engineering principles to improve user interaction and accessibility  
 
 ### **SlideGlint — Markdown to Presentation Engine**
-- Engineered a tool that converts Markdown into structured, presentation-ready slides  
-- Designed parsing and transformation logic to map content into slide components  
-- Focused on simplicity, speed, and developer-friendly workflow for content creation  
+- Built a Markdown-to-slide engine for generating structured presentation content  
+- Designed parsing and transformation logic to convert text into slide components  
+- Focused on developer efficiency and streamlined content creation workflows  
 
 ---
 
