@@ -1,13 +1,15 @@
-
-
 ## Professional Focus
 
-> Building scalable, cross-platform solutions with a focus on high-performance architecture.
+Building scalable, cross-platform solutions with an emphasis on high-performance system architecture, maintainability, and clean design principles.
 
-* **Current Mission** Architecting the **[lab68dev-platform](https://github.com/lab68dev/lab68dev-platform)** and maintain **[lab68cv builder](https://lab68cvbuilder.vercel.app/en)**.
-* **Academic Pillars** Capstone A, Usability Engineering and Advanced Project Management.
+- **Current Mission**  
+  Architecting the **[lab68dev-platform](https://github.com/lab68dev/lab68dev-platform)** and maintaining the **[lab68cv builder](https://lab68cvbuilder.vercel.app/en)**.
+
+- **Academic Focus**  
+  Capstone A · Usability Engineering · Advanced Project Management
 
 ---
+
 ## Connect
 
 <p align="left">
@@ -16,27 +18,36 @@
 </p>
 
 ---
-## Technical Arsenal
+
+## Technical Expertise
 
 ### Core Languages
+
 | Category | Stack |
 | :--- | :--- |
-| **Logic** | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) |
+| **Programming & Logic** | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white) |
+| **Backend Systems** | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-## Development Activity
+## Key Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DongDuong2001&theme=dark&hide_border=false&border_color=ffffff&background=000000&sideNums=ffffff&sideLabels=dcdcdc&dates=dcdcdc&ring=ffffff&fire=ffffff" alt="DongDuong2001's Streak" />
+### **lab68dev-platform**
+- Designed and architected a scalable, modular platform for extensible development workflows  
+- Implemented service-oriented backend with focus on performance and maintainability  
+- Integrated modern DevOps practices (Dockerized services, CI-ready structure)  
 
-  <br />
+### **lab68cv builder**
+- Developed a production-ready CV builder with a clean, user-centric interface  
+- Built using modern frontend stack with optimized rendering and responsiveness  
+- Focused on usability engineering principles to enhance user experience
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DongDuong2001&theme=react-dark&bg_color=000000&hide_border=false&border_color=ffffff&color=ffffff&line=ffffff&point=ffffff&area=true&hide_title=false" width="100%" alt="DongDuong2001 Activity" />
-</div>
+### **SlideGlint — Markdown to Presentation Engine**
+- Engineered a tool that converts Markdown into structured, presentation-ready slides  
+- Designed parsing and transformation logic to map content into slide components  
+- Focused on simplicity, speed, and developer-friendly workflow for content creation  
 
 ---
 
