@@ -1,6 +1,6 @@
 ## Professional Summary
 
-Full-stack developer and technical leader specializing in scalable, high-performance systems. Experienced in designing cross-platform architectures, leading development initiatives, and delivering maintainable, production-ready solutions. Strong focus on system design, developer experience, and efficient engineering workflows.
+Full-stack developer and technical lead with ~1.5 years of hands-on experience building scalable, high-performance systems. Proven ability to design cross-platform architectures, lead small engineering teams, and deliver maintainable, production-ready solutions. Strong focus on system design, developer experience, and efficient engineering workflows.
 
 ---
 
