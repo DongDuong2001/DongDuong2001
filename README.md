@@ -8,6 +8,7 @@ Full-stack developer and technical leader specializing in scalable, high-perform
 
 - **Current Mission**  
   Architecting the **[lab68dev-platform](https://github.com/lab68dev/lab68dev-platform)** and maintaining the **[lab68cv builder](https://lab68cvbuilder.vercel.app/en)**.
+  Technical Lead - Take charge leading team of 04 doing Capstone Project A & B. Project Luvcraft from Project Pluto.
 
 - **Academic Focus**  
   Capstone A · Usability Engineering · Advanced Project Management
