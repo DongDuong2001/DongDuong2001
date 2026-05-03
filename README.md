@@ -63,5 +63,5 @@ Full-stack developer and technical lead with ~1.5 years of hands-on experience b
 </p>
 
 <div align="right">
-  <sub>Last updated: April 2026 | <b>Duong Phu Dong</b></sub>
+  <sub>Last updated: May 2026 | <b>Duong Phu Dong</b></sub>
 </div>
