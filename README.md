@@ -10,7 +10,7 @@ Full-stack developer and technical lead with 1.5+ years of experience designing 
 
 ### Technical Leadership
 - Leading a team of 4 developers for **Capstone Projects A & B**
-- Technical Lead of **Project Luvcraft** and **Project Pluto**
+- Technical Lead of **Project Luvcraft** from **Project Pluto**
 - Architect and maintainer of:
   - **lab68dev-platform**
   - **lab68cv builder**
