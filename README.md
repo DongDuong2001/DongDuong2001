@@ -107,7 +107,7 @@ A structured AI-assisted development workflow designed to improve software engin
 ## Open Source Sponsorship
 
 <p align="left">
-  <a href="https://github.com/sponsors/lab68dev">
+  <a href="https://github.com/sponsors/DongDuong2001">
     <img src="https://img.shields.io/badge/Sponsor_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
