@@ -44,7 +44,11 @@ Full-stack developer and technical lead with 1.5+ years of experience designing 
   <a href="https://forg.to/@duongphudong">
     <img src="https://img.shields.io/badge/Forg-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
+  <a href="https://duongphudong2001.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </p>
+
 
 ---
 
