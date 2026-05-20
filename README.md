@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-Full-stack developer and technical lead with 1.5+ years of experience designing scalable systems, building developer-focused platforms, and leading small engineering teams. Specialized in modern web architecture, cross-platform development, and AI-assisted engineering workflows with a strong emphasis on maintainability, usability, and performance.
+Full-stack developer and technical lead with experience designing scalable systems, building developer-focused platforms, and leading small engineering teams. Specialized in modern web architecture, cross-platform development, and AI-assisted engineering workflows with a strong emphasis on maintainability, usability, and performance.
 
 ---
 
@@ -133,7 +133,7 @@ A structured AI-assisted development workflow designed to improve software engin
 </p>
 
 ---
-
+[![Duong Phu Dong profile views](https://u8views.com/api/v1/github/profiles/64120873/views/day-week-month-total-count.svg)](https://u8views.com/github/DongDuong2001)
 <div align="right">
   <sub>Last updated: May 2026 · <b>Duong Phu Dong</b></sub>
 </div>
