@@ -1,8 +1,10 @@
-# Duong Phu Dong
+<h1 align="center">Duong Phu Dong</h1>
 
 ## Professional Summary
 
-Full-stack developer and technical lead with experience designing scalable systems, building developer-focused platforms, and leading small engineering teams. Specialized in modern web architecture, cross-platform development, and AI-assisted engineering workflows with a strong emphasis on maintainability, usability, and performance.
+Software Engineering student at RMIT University Vietnam with hands-on experience building full-stack web
+applications using TypeScript, Node.js, PostgreSQL, and Supabase. Experienced in API design, database
+modeling, authentication, deployment, code reviews, and agile delivery across user-facing software projects.
 
 ---
 
