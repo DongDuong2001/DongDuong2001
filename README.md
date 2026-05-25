@@ -65,7 +65,7 @@ modeling, authentication, deployment, code reviews, and agile delivery across us
 | **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white) |
 ---
 
-## Featured Projects
+## Featured Projects - Actively Maintain
 
 ### lab68dev-platform
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lab68devplatform.vercel.app/)
