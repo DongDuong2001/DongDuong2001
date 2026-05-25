@@ -68,6 +68,8 @@ modeling, authentication, deployment, code reviews, and agile delivery across us
 ## Featured Projects
 
 ### lab68dev-platform
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lab68devplatform.vercel.app/)
+
 A scalable and modular development platform focused on extensible engineering workflows and maintainable system architecture.
 
 #### Highlights
@@ -77,7 +79,9 @@ A scalable and modular development platform focused on extensible engineering wo
 
 ---
 
-### lab68cv builder
+### lab68cv builder 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lab68cvbuilder.vercel.app/)
+
 A production-ready CV builder designed with usability, accessibility, and responsive user experience in mind.
 
 #### Highlights
@@ -87,17 +91,9 @@ A production-ready CV builder designed with usability, accessibility, and respon
 
 ---
 
-### SlideGlint — Markdown Presentation Engine
-A Markdown-to-slide engine built to streamline presentation generation for developers and technical workflows.
-
-#### Highlights
-- Designed parsing and transformation pipelines
-- Converted Markdown into structured slide components
-- Focused on developer productivity and content automation
-
----
-
 ### Pudo Code System
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DongDuong2001/pudo-code-system)
+
 A structured AI-assisted development workflow designed to improve software engineering productivity, code quality, and development consistency.
 
 #### Core Workflow
@@ -136,7 +132,9 @@ A structured AI-assisted development workflow designed to improve software engin
 </p>
 
 ---
-[![Duong Phu Dong profile views](https://u8views.com/api/v1/github/profiles/64120873/views/day-week-month-total-count.svg)](https://u8views.com/github/DongDuong2001)
+<a href="https://u8views.com/github/DongDuong2001">
+  <img src="https://u8views.com/api/v1/github/profiles/64120873/views/day-week-month-total-count.svg?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=Profile%20Views" />
+</a>
 <div align="right">
-  <sub>Last updated: May 2026 · <b>Duong Phu Dong</b></sub>
+  <sub>Last updated: 25 May 2026 · <b>Duong Phu Dong</b></sub>
 </div>
