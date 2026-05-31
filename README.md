@@ -30,27 +30,13 @@ modeling, authentication, deployment, code reviews, and agile delivery across us
 
 ## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/duong-phu-dong/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:dongduong840@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://unikorn.vn/u/duong-phu-dong">
-    <img src="https://img.shields.io/badge/Unikorn-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-
-  <a href="https://forg.to/@duongphudong">
-    <img src="https://img.shields.io/badge/Forg-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
-  <a href="https://duongphudong2001.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</p>
-
+| Platform | Badge |
+| :--- | :--- |
+| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-phu-dong/) |
+| Email | [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dongduong840@gmail.com) |
+| Unikorn | [![Unikorn](https://img.shields.io/badge/Unikorn-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://unikorn.vn/u/duong-phu-dong) |
+| Forg | [![Forg](https://img.shields.io/badge/Forg-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://forg.to/@duongphudong) |
+| Portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://duongphudong2001.vercel.app/) |
 
 ---
 
@@ -109,29 +95,13 @@ A structured AI-assisted development workflow designed to improve software engin
 
 ## Open Source Sponsorship
 
-<p align="left">
-  <a href="https://github.com/sponsors/DongDuong2001">
-    <img src="https://img.shields.io/badge/Sponsor_GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://ko-fi.com/dongphuduong">
-    <img src="https://img.shields.io/badge/Support_Kofi-000000?style=for-the-badge&logo=ko-fi&logoColor=white" />
-  </a>
-
-  <a href="https://www.buymeacoffee.com/lab68dev">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-  </a>
-
-  <a href="https://paypal.me/DDuong884">
-    <img src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>
-
-  <a href="https://www.patreon.com/cw/DongDuong2001">
-    <img src="https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
-</p>
-
----
+| Platform | Badge |
+| :--- | :--- |
+| GitHub Sponsors | [![Sponsor GitHub](https://img.shields.io/badge/Sponsor_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/DongDuong2001) |
+| Ko-fi | [![Support Ko-fi](https://img.shields.io/badge/Support_Kofi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dongphuduong) |
+| Buy Me a Coffee | [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/lab68dev) |
+| PayPal | [![PayPal](https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DDuong884) |
+| Patreon | [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/DongDuong2001) |
 <a href="https://u8views.com/github/DongDuong2001">
   <img src="https://u8views.com/api/v1/github/profiles/64120873/views/day-week-month-total-count.svg?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=Profile%20Views" />
 </a>
