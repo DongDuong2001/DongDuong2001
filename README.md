@@ -22,8 +22,8 @@ modeling, authentication, deployment, code reviews, and agile delivery across us
 
 ## Academic Focus
 
-- Capstone Project A
-- Usability Engineering
+- Capstone Project A & B
+- Engineering Management
 - Advanced Project Management
 
 ---
