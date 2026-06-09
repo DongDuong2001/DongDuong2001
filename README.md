@@ -72,7 +72,7 @@ Focused on API design, database modeling, authentication, deployment, code revie
 
 ### lab68dev-platform
 
-[![Website](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68devplatform.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68devplatform.vercel.app/)
 
 A modular development platform for extensible engineering workflows and maintainable system architecture.
 
@@ -86,7 +86,7 @@ A modular development platform for extensible engineering workflows and maintain
 
 ### lab68cv builder
 
-[![Website](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68cvbuilder.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68cvbuilder.vercel.app/)
 
 A production-ready CV builder focused on usability, accessibility, and responsive user experience.
 
