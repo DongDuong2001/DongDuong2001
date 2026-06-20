@@ -1,10 +1,16 @@
-<h1 align="center">Duong Phu Dong</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Duong%20Phu%20Dong&fontSize=55&fontColor=ffffff&color=0:000000,100:333333"/>
+</p>
+
+<p align="center">
+Software Engineering Student at RMIT Vietnam
+<br>
+Technical Lead • Full-Stack Developer • Open Source Maintainer
+</p>
 
 ## Professional Summary
 
-Software Engineering student at **RMIT University Vietnam** with hands-on experience in building full-stack web applications using **TypeScript, Node.js, PostgreSQL, and Supabase**.
-
-Focused on API design, database modeling, authentication, deployment, code review, and agile delivery across practical software projects.
+Software Engineering student at RMIT University Vietnam specializing in full-stack web development and backend engineering. Experienced in designing REST APIs, relational databases, authentication systems, and deployment pipelines using **TypeScript**, **Node.js**, **PostgreSQL**, and **Supabase**. Currently leading a four-developer Capstone team while maintaining several open-source projects.
 
 ---
 
@@ -24,15 +30,19 @@ Focused on API design, database modeling, authentication, deployment, code revie
 
 ## Current Focus
 
-### Technical Leadership
+#### Technical Lead for Capstone Projects A & B
 
-* Leading a team of **4 developers** for **Capstone Projects A & B**
-* Technical Lead of **Project Luvcraft** from **Project Pluto**
-* Architect and maintainer of **3 active projects**:
+#### Leading Project Luvcraft under Project Pluto
 
-  * **lab68dev-platform**
-  * **lab68cv builder**
-  * **Pudo Code System**
+* **Maintaining:**
+  - lab68dev-platform
+  - lab68cv-builder
+  - PUDO Code System
+
+* **Exploring:**
+  - System architecture
+  - Backend engineering
+  - Developer tooling
 
 ---
 
@@ -142,5 +152,5 @@ A structured AI-assisted development workflow for improving productivity, code q
 </a>
 
 <div align="right">
-  <sub>Last updated: 09 June 2026 · <b>Duong Phu Dong</b></sub>
+  <sub>Last updated: 20 June 2026 · <b>Duong Phu Dong</b></sub>
 </div>
