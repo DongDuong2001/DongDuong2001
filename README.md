@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Software Engineering Student at RMIT Vietnam
+Software Engineering Student at RMIT Vietnam [Final Year]
 <br>
 Technical Lead • Full-Stack Developer • Open Source Maintainer
 </p>
