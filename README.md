@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Final-year Software Engineering student at RMIT University Vietnam, with a focus on full-stack web development, backend engineering, and system design. Work includes REST API design, relational database modeling, authentication systems, and deployment pipelines, primarily using **TypeScript**, **Node.js**, **PostgreSQL**, and **Supabase**. Currently leading a four-developer Capstone team and maintaining several open-source projects.
+Final-year Software Engineering student at RMIT University Vietnam, with a focus on full-stack web development, backend engineering, and system design. Experienced in REST API design, relational database modeling, authentication systems, and deployment pipelines, primarily using **TypeScript**, **Node.js**, **PostgreSQL**, and **Supabase**. Led a four-developer Capstone team through development and the final project demonstration from 17 September, while maintaining several open-source projects.
 
 ---
 
@@ -72,6 +72,38 @@ Leading Project Luvcraft under Project Pluto.
 ---
 
 ## Projects
+
+### Project Luvcraft
+
+[![RMIT Showcase](https://img.shields.io/badge/RMIT_Showcase-000000?style=for-the-badge)](https://www.rmitvn-showcase.com/nightswatch10f37c09)
+
+An AI-powered fandom intelligence and brand collaboration platform developed as part of the RMIT Capstone project under Project Pluto.
+
+**Details**
+- AI-assisted fandom intelligence and sentiment analysis
+- Asynchronous micro-orchestration pipeline
+- Brand–IP collaboration analysis
+- Built and delivered by a four-developer Capstone team
+
+**Team**
+- [@DongDuong2001](https://github.com/DongDuong2001)
+- [@HoHuy2402](https://github.com/HoHuy2402)
+- [@TVNT99](https://github.com/TVNT99)
+- [@haovu310](https://github.com/haovu310)
+- [@quangdong26](https://github.com/quangdong26)
+
+**Project Leadership**
+- Technical Lead — [@DongDuong2001](https://github.com/DongDuong2001)
+
+**Academic Supervisor**
+- Dr. Kapil Dev
+
+**Industry Partners**
+- Mr. Danh Pham
+- Mr. Hien Nguyen
+- Mr. Gia Kiet
+
+---
 
 ### lab68dev-platform
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68devplatform.vercel.app/)
