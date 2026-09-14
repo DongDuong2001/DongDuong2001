@@ -85,7 +85,7 @@ An AI-powered fandom intelligence and brand collaboration platform developed as 
 - Brand–IP collaboration analysis
 - Built and delivered by a four-developer Capstone team
 
-**Team**
+**Team: Nightswatch**
 - [@DongDuong2001](https://github.com/DongDuong2001)
 - [@HoHuy2402](https://github.com/HoHuy2402)
 - [@TVNT99](https://github.com/TVNT99)
@@ -98,7 +98,7 @@ An AI-powered fandom intelligence and brand collaboration platform developed as 
 **Academic Supervisor**
 - Dr. Kapil Dev
 
-**Industry Partners**
+**Industry Partners: Project Pluto**
 - Mr. Danh Pham
 - Mr. Hien Nguyen
 - Mr. Gia Kiet
