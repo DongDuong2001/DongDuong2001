@@ -4,7 +4,7 @@
 
 ## Professional Summary
 
-Final-year Software Engineering student at RMIT University Vietnam, with a focus on full-stack web development, backend engineering, and system design. Experienced in REST API design, relational database modeling, authentication systems, and deployment pipelines, primarily using **TypeScript**, **Node.js**, **PostgreSQL**, and **Supabase**. Led a four-developer Capstone team through development and the final project demonstration on 17 September, while maintaining several open-source projects.
+Final-year Software Engineering student at RMIT University Vietnam, specializing in full-stack web development, backend engineering, and system design. Experienced in designing REST APIs, relational database systems, authentication and authorization, and deployment pipelines using **TypeScript, Node.js, PostgreSQL, and Supabase**. Recently completed a Capstone project, leading a four-developer team through the full software development lifecycle, from system design and implementation to the final project demonstration. Also actively maintaining and contributing to open-source projects.
 
 ---
 
