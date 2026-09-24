@@ -22,28 +22,29 @@ Final-year Software Engineering student at RMIT University Vietnam, specializing
 ---
 ## Current Focus
 
-**Technical Lead, Capstone Projects A & B**
-Leading Project Luvcraft under Project Pluto.
+**Recently completed Capstone Project — Project Luvcraft**
+Completed the Capstone project under Project Pluto, contributing as Technical Lead through system design, implementation, and final project delivery. The Final Report was submitted on **22 September 2026**.
 
 **Projects maintained**
-- lab68dev-platform
-- lab68cv-builder
-- PUDO Code System
-- FortifyKitchen Website
+
+* lab68dev-platform
+* lab68cv-builder
+* PUDO Code System
+* FortifyKitchen Website
 
 **Areas of interest**
-- System architecture
-- Backend engineering
-- Developer tooling
-- DevOps
 
----
+* System architecture
+* Backend engineering
+* Developer tooling
+* DevOps
+
 
 ## Academic Focus
 
-- Capstone Project A & B
-- Engineering Management
-- Advanced Project Management
+* Software Engineering
+* Engineering Management
+* Advanced Project Management
 
 ---
 
