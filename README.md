@@ -31,6 +31,7 @@ Completed the Capstone project under Project Pluto, contributing as Technical Le
 * lab68cv-builder
 * PUDO Code System
 * FortifyKitchen Website
+* H1T MICRO Platform
 
 **Areas of interest**
 
@@ -103,6 +104,20 @@ An AI-powered fandom intelligence and brand collaboration platform developed as 
 - Mr. Danh Pham
 - Mr. Hien Nguyen
 - Mr. Gia Kiet
+
+---
+### H1T MICRO
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lehongkhanh.vn/)
+
+A nutrition and micronutrient platform, built as a start-up project with [@haovu310](https://github.com/haovu310) and deployed at lehongkhanh.vn.
+
+**Details**
+- Next.js + Go monorepo with Supabase and PayOS payments
+- Community launch model with paid subscription
+- Backend, system architecture and product ownership
+
+**Role**
+- Full-stack Engineer and System Owner — [@DongDuong2001](https://github.com/DongDuong2001)
 
 ---
 
