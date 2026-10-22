@@ -110,6 +110,7 @@ An AI-powered fandom intelligence and brand collaboration platform developed as 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lehongkhanh.vn/)
 
 A nutrition and micronutrient platform, built as a start-up project with [@haovu310](https://github.com/haovu310) and deployed at lehongkhanh.vn.
+Current users: 1000+ [Update 22/10/2026]
 
 **Details**
 - Next.js + Go monorepo with Supabase and PayOS payments
