@@ -27,8 +27,6 @@ Completed the Capstone project under Project Pluto, contributing as Technical Le
 
 **Projects maintained**
 
-* lab68dev-platform
-* lab68cv-builder
 * PUDO Code System
 * FortifyKitchen Website
 * H1T MICRO Platform
