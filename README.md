@@ -93,7 +93,7 @@ An AI-powered fandom intelligence and brand collaboration platform developed as 
 - [@quangdong26](https://github.com/quangdong26)
 
 **Project Leadership**
-- Technical Lead — [@DongDuong2001](https://github.com/DongDuong2001)
+- Technical Team Lead — [@DongDuong2001](https://github.com/DongDuong2001)
 
 **Academic Supervisor**
 - Dr. Kapil Dev
@@ -108,7 +108,8 @@ An AI-powered fandom intelligence and brand collaboration platform developed as 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lehongkhanh.vn/)
 
 A nutrition and micronutrient platform, built as a start-up project with [@haovu310](https://github.com/haovu310) and deployed at lehongkhanh.vn.
-Current users: 1000+ [Update 22/10/2026]
+
+Current users: 2500+ [Update 06/11/2026]
 
 **Details**
 - Next.js + Go monorepo with Supabase and PayOS payments
@@ -116,7 +117,7 @@ Current users: 1000+ [Update 22/10/2026]
 - Backend, system architecture and product ownership
 
 **Role**
-- Full-stack Engineer and System Owner — [@DongDuong2001](https://github.com/DongDuong2001)
+- Backend Engineer — [@DongDuong2001](https://github.com/DongDuong2001)
 
 ---
 
