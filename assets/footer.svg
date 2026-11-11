@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="End of file">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#0e0e0e"/></pattern>
+<pattern id="haz" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="8" height="16" fill="#E8112D"/></pattern>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.14em;text-transform:uppercase}
+.s{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+.j{font-family:"Hiragino Sans","Yu Gothic","Meiryo","Noto Sans JP","MS Gothic",sans-serif}
+.blink{animation:bl 1.2s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+.gl{opacity:0;animation:gl 6s steps(1) infinite}
+@keyframes gl{0%{opacity:0}91%{opacity:.85;transform:translateX(-5px)}92%{opacity:0}95%{opacity:.7;transform:translateX(6px)}96%{opacity:0}}
+.fl{animation:fl 5s steps(1) infinite}
+@keyframes fl{0%{opacity:1}60%{opacity:.25}61%{opacity:1}63%{opacity:.5}64%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+</defs>
+<path d="M12 0H1200V58L1188 70H0V12Z" fill="#050505"/>
+<rect x="0" y="0" width="1200" height="8" fill="url(#haz)"/>
+<text x="24" y="46" class="m" font-size="13" fill="#777">end of file // <tspan class="j" fill="#E8112D">ファイル終了</tspan></text>
+<text x="600" y="46" class="m" font-size="11" fill="#555" text-anchor="middle">three bugs studio &#160;//&#160; ho chi minh city</text>
+<g fill="#bbb" class=""><rect x="1042" y="30" width="3" height="24"/><rect x="1046" y="30" width="2" height="24"/><rect x="1050" y="30" width="3" height="24"/><rect x="1059" y="30" width="1" height="24"/><rect x="1061" y="30" width="1" height="24"/><rect x="1068" y="30" width="1" height="24"/><rect x="1073" y="30" width="1" height="24"/><rect x="1075" y="30" width="1" height="24"/><rect x="1078" y="30" width="2" height="24"/><rect x="1081" y="30" width="3" height="24"/><rect x="1089" y="30" width="3" height="24"/><rect x="1097" y="30" width="2" height="24"/><rect x="1101" y="30" width="1" height="24"/><rect x="1105" y="30" width="1" height="24"/><rect x="1112" y="30" width="1" height="24"/><rect x="1119" y="30" width="3" height="24"/><rect x="1123" y="30" width="1" height="24"/><rect x="1125" y="30" width="1" height="24"/><rect x="1132" y="30" width="1" height="24"/><rect x="1138" y="30" width="1" height="24"/><rect x="1140" y="30" width="1" height="24"/><rect x="1142" y="30" width="1" height="24"/><rect x="1148" y="30" width="1" height="24"/><rect x="1150" y="30" width="2" height="24"/><rect x="1157" y="30" width="1" height="24"/><rect x="1162" y="30" width="1" height="24"/><rect x="1164" y="30" width="1" height="24"/><rect x="1170" y="30" width="3" height="24"/><rect x="1175" y="30" width="2" height="24"/></g>
+</svg>

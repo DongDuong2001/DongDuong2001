@@ -1,12 +1,10 @@
 <img src="assets/banner.svg" alt="Duong Phu Dong, founder of Three Bugs Studio" width="100%">
 
-`P-00 / readme` &nbsp;·&nbsp; [3bstudio.me](https://3bstudio.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/duong-phu-dong/) &nbsp;·&nbsp; [Email](mailto:dongduong840@gmail.com) &nbsp;·&nbsp; [Portfolio](https://duongphudong2001.vercel.app/)
+`FILE 3B-000 // PERSONNEL` &nbsp;·&nbsp; [3bstudio.me](https://3bstudio.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/duong-phu-dong/) &nbsp;·&nbsp; [Email](mailto:dongduong840@gmail.com) &nbsp;·&nbsp; [Portfolio](https://duongphudong2001.vercel.app/)
 
 I run **[Three Bugs Studio](https://3bstudio.me)**, a small studio in Ho Chi Minh City that builds websites and software, and ships its own open-source tools on the side. Final-year Software Engineering at RMIT Vietnam. I mostly work on the backend: APIs, databases, auth, and the pipelines that deploy them.
 
----
-
-### `01 / products`
+<img src="assets/h-01-products.svg" alt="01 Products" width="100%">
 
 Things the studio makes and maintains in the open.
 
@@ -18,7 +16,7 @@ Things the studio makes and maintains in the open.
 | `P‑04` | **[3beditor](https://github.com/Three-Bugs-Studio/3beditor)** | A Claude Code plugin that edits raw clips into TikTok, Reels and Shorts videos. |
 | `P‑05` | **[Workspace](https://github.com/Three-Bugs-Studio/threebugsworkspace)** | An open-source workspace for software studios and their clients. |
 
-### `02 / work`
+<img src="assets/h-02-work.svg" alt="02 Work" width="100%">
 
 Built with partners and clients.
 
@@ -29,7 +27,7 @@ Built with partners and clients.
 | `W‑03` | **[FortifyKitchen](https://fortifykitchen.vercel.app/)** | Full-stack | Ordering and checkout for a high-protein meal-prep kitchen. |
 | `W‑04` | **[Demuse](https://demuse-two.vercel.app/)** | Full-stack | Schedule planner with conflict detection, reminders and `.ics` sync. |
 
-### `03 / log`
+<img src="assets/h-03-log.svg" alt="03 Log" width="100%">
 
 ```text
 2026-11-10  3BCAD v1.0.1 released
@@ -37,19 +35,21 @@ Built with partners and clients.
 2026-09-22  Luvcraft final report submitted (tech lead, Team Nightswatch)
 ```
 
-### `04 / stack`
+<img src="assets/h-04-stack.svg" alt="04 Stack" width="100%">
 
 ```text
 daily     typescript  rust  go  postgres  supabase  next.js  docker  linux
 also      java  python  spring boot  fastapi  flutter  github actions
 ```
 
-### `05 / rules`
+<img src="assets/h-05-protocol.svg" alt="05 Protocol" width="100%">
 
-1. Build the simple version before the scalable one.
-2. Design the API and the schema around how people actually use the thing.
-3. AI writes code with me, not instead of knowing how.
+```text
+R-01  build the simple version before the scalable one
+R-02  design the api and the schema around how people actually use the thing
+R-03  ai writes code with me, not instead of knowing how
+```
 
----
+<img src="assets/footer.svg" alt="End of file" width="100%">
 
 <sub>`REV 2026-11-11` · Three Bugs Studio · Ho Chi Minh City · if something here helped you, [sponsor](https://github.com/sponsors/DongDuong2001) or [buy a coffee](https://ko-fi.com/dongphuduong)</sub>
