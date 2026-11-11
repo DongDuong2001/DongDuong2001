@@ -1,222 +1,65 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Duong%20Phu%20Dong&fontSize=55&fontColor=ffffff&color=0:000000,100:333333"/>
-</p>
+<img src="assets/banner.svg" alt="Duong Phu Dong, founder of Three Bugs Studio" width="100%">
 
-## Professional Summary
+`P-00 / readme` &nbsp;·&nbsp; [3bstudio.me](https://3bstudio.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/duong-phu-dong/) &nbsp;·&nbsp; [Email](mailto:dongduong840@gmail.com) &nbsp;·&nbsp; [Portfolio](https://duongphudong2001.vercel.app/)
 
-Final-year Software Engineering student at RMIT University Vietnam, specializing in full-stack web development, backend engineering, and system design. Experienced in designing REST APIs, relational database systems, authentication and authorization, and deployment pipelines using **TypeScript, Node.js, PostgreSQL, and Supabase**. Recently completed a Capstone project, leading a four-developer team through the full software development lifecycle, from system design and implementation to the final project demonstration. Also actively maintaining and contributing to open-source projects.
+I run **[Three Bugs Studio](https://3bstudio.me)**, a small studio in Ho Chi Minh City that builds websites and software, and ships its own open-source tools on the side. Final-year Software Engineering at RMIT Vietnam. I mostly work on the backend: APIs, databases, auth, and the pipelines that deploy them.
 
 ---
 
-## Engineering Snapshot
+### `01 / products`
 
-| Metric               | Value |
-| :-------------------- | :---- |
-| Current role          | ![Role](https://img.shields.io/badge/Full--stack%20Developer-000000?style=for-the-badge) |
-| Team size              | ![Team](https://img.shields.io/badge/4%20Developers-000000?style=for-the-badge) |
-| Maintained projects   | ![Projects](https://img.shields.io/badge/4%20Active%20Projects-000000?style=for-the-badge) |
-| Core workflow          | ![Workflow](https://img.shields.io/badge/PUDO%20(4--Step%20System)-000000?style=for-the-badge) |
-| Technical domains      | ![Domains](https://img.shields.io/badge/5%20Areas-000000?style=for-the-badge) |
-| Listed technologies    | ![Tech](https://img.shields.io/badge/16%20Tools-000000?style=for-the-badge) |
-| Academic focus areas   | ![Academic](https://img.shields.io/badge/3%20Subjects-000000?style=for-the-badge) |
----
-## Current Focus
+Things the studio makes and maintains in the open.
 
-**Recently completed Capstone Project — Project Luvcraft**
-Completed the Capstone project under Project Pluto, contributing as Technical Lead through system design, implementation, and final project delivery. The Final Report was submitted on **22 September 2026**.
+| No. | Product | What it is |
+| :-- | :------ | :--------- |
+| `P‑01` | **[3BCAD](https://github.com/Three-Bugs-Studio/3bcad)** · [guide](https://three-bugs-studio.github.io/3bcad/) | Open-source parametric 3D CAD in Rust, with a built-in 3D-print studio and assemblies. `v1.0.1` |
+| `P‑02` | **[3B Infrastructure](https://3binfrastructure.vercel.app)** | A hand-drawn notebook on system architecture, databases and software engineering courses. |
+| `P‑03` | **[PUDO](https://github.com/DongDuong2001/pudo-code-system)** | Plan → Understand → Develop → Optimize. A four-step workflow for building software with AI agents. |
+| `P‑04` | **[3beditor](https://github.com/Three-Bugs-Studio/3beditor)** | A Claude Code plugin that edits raw clips into TikTok, Reels and Shorts videos. |
+| `P‑05` | **[Workspace](https://github.com/Three-Bugs-Studio/threebugsworkspace)** | An open-source workspace for software studios and their clients. |
 
-**Projects maintained**
+<a href="https://unikorn.vn/p/3bcad?ref=embed-3bcad"><img src="https://unikorn.vn/api/widgets/badge/3bcad?theme=dark" alt="3BCAD on Unikorn" height="40"></a>
 
-* PUDO Code System
-* FortifyKitchen Website
-* H1T MICRO Platform
+### `02 / work`
 
-**Areas of interest**
+Built with partners and clients.
 
-* System architecture
-* Backend engineering
-* Developer tooling
-* DevOps
+| No. | Project | Role | Notes |
+| :-- | :------ | :--- | :---- |
+| `W‑01` | **[H1T MICRO](https://lehongkhanh.vn/)** | Backend, architecture | Nutrition and micronutrient platform. Next.js + Go, Supabase, PayOS. 2,500+ users. |
+| `W‑02` | **[Luvcraft](https://www.rmitvn-showcase.com/nightswatch10f37c09)** | Technical lead | RMIT capstone with industry partner Project Pluto. AI fandom intelligence and brand–IP matching. |
+| `W‑03` | **[FortifyKitchen](https://fortifykitchen.vercel.app/)** | Full-stack | Ordering and checkout for a high-protein meal-prep kitchen. |
+| `W‑04` | **[Demuse](https://demuse-two.vercel.app/)** | Full-stack | Schedule planner with conflict detection, reminders and `.ics` sync. |
 
+<details>
+<summary><code>older / lab68</code></summary>
 
-## Academic Focus
+- **[lab68dev-platform](https://lab68devplatform.vercel.app/)**: a modular dev platform built from separate, replaceable modules.
+- **[lab68cv-builder](https://lab68cvbuilder.vercel.app/)**: a brutalist resume builder with pixel-exact PDF output.
 
-* Software Engineering
-* Engineering Management
-* Advanced Project Management
+</details>
 
----
+### `03 / log`
 
-## Connect
+```text
+2026-11-10  3BCAD v1.0.1 released
+2026-11-06  H1T MICRO passes 2,500 users
+2026-09-22  Luvcraft final report submitted (tech lead, Team Nightswatch)
+```
 
-| Platform  | Link |
-| :-------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| LinkedIn  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/duong-phu-dong/) |
-| Email     | [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:dongduong840@gmail.com)                        |
-| Unikorn   | [![Unikorn](https://img.shields.io/badge/Unikorn-000000?style=for-the-badge\&logo=aboutdotme\&logoColor=white)](https://unikorn.vn/u/duong-phu-dong)         |
-| Forg      | [![Forg](https://img.shields.io/badge/Forg-000000?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)](https://forg.to/@duongphudong)                 |
-| Portfolio | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://duongphudong2001.vercel.app/)        |
+### `04 / stack`
 
----
+```text
+daily     typescript  rust  go  postgres  supabase  next.js  docker  linux
+also      java  python  spring boot  fastapi  flutter  github actions
+```
 
-## Technical Expertise
+### `05 / rules`
 
-| Category                         | Stack |
-| :-------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Programming & Logic**          | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=white) |
-| **Frontend Engineering**         | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge\&logo=flutter\&logoColor=white) |
-| **Backend Systems**              | ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=nodedotjs\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge\&logo=springboot\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=white) |
-| **Database & Backend Platforms** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge\&logo=postgresql\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge\&logo=supabase\&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-000000?style=for-the-badge\&logo=neon\&logoColor=white) |
-| **DevOps & Infrastructure**      | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge\&logo=docker\&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge\&logo=githubactions\&logoColor=white) |
+1. Build the simple version before the scalable one.
+2. Design the API and the schema around how people actually use the thing.
+3. AI writes code with me, not instead of knowing how.
 
 ---
 
-## Projects
-
-### Project Luvcraft
-
-[![RMIT Showcase](https://img.shields.io/badge/RMIT_Showcase-000000?style=for-the-badge)](https://www.rmitvn-showcase.com/nightswatch10f37c09)
-
-An AI-powered fandom intelligence and brand collaboration platform developed as part of the RMIT Capstone project under Project Pluto.
-
-**Details**
-- AI-assisted fandom intelligence and sentiment analysis
-- Asynchronous micro-orchestration pipeline
-- Brand–IP collaboration analysis
-- Built and delivered by a four-developer Capstone team
-
-**Team: Nightswatch**
-- [@DongDuong2001](https://github.com/DongDuong2001)
-- [@HoHuy2402](https://github.com/HoHuy2402)
-- [@TVNT99](https://github.com/TVNT99)
-- [@haovu310](https://github.com/haovu310)
-- [@quangdong26](https://github.com/quangdong26)
-
-**Project Leadership**
-- Technical Team Lead — [@DongDuong2001](https://github.com/DongDuong2001)
-
-**Academic Supervisor**
-- Dr. Kapil Dev
-
-**Industry Partners: Project Pluto**
-- Mr. Danh Pham
-- Mr. Hien Nguyen
-- Mr. Gia Kiet
-
----
-### H1T MICRO
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lehongkhanh.vn/)
-
-A nutrition and micronutrient platform, built as a start-up project with [@haovu310](https://github.com/haovu310) and deployed at lehongkhanh.vn.
-
-Current users: 2500+ [Update 06/11/2026]
-
-**Details**
-- Next.js + Go monorepo with Supabase and PayOS payments
-- Community launch model with paid subscription
-- Backend, system architecture and product ownership
-
-**Role**
-- Backend Engineer — [@DongDuong2001](https://github.com/DongDuong2001)
-
----
-
-### lab68dev-platform
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68devplatform.vercel.app/)
-
-A modular development platform supporting extensible engineering workflows.
-
-**Details**
-- Backend architecture designed around separate, replaceable modules
-- Deployed using containerized services
-- Built with an emphasis on maintainability and clear system structure
-
----
-
-### lab68cv-builder
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://lab68cvbuilder.vercel.app/)
-
-A CV builder application focused on usability and accessibility.
-
-**Details**
-- Responsive frontend architecture
-- Attention to rendering and interaction performance
-- Accessibility considerations applied throughout the UI
-
----
-
-### PUDO Code System
-[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DongDuong2001/pudo-code-system)
-
-An AI-assisted development workflow intended to support consistency in software projects.
-
-**Core workflow**
-> PUDO = Plan → Understand → Develop → Optimize
-
-**Details**
-- A repeatable, 4-step engineering workflow
-- Combines AI-assisted tools with standard development practices
-- Designed for students, solo developers, and small teams
-
----
-
-### FortifyKitchen
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fortifykitchen.vercel.app/)
-
-A meal-prep and food delivery platform, built with [@haovu310](https://github.com/haovu310), for ordering slow-cooked, high-protein meals.
-
-**Details**
-- Customer-facing ordering workflows
-- Browsing and checkout flow implementation
-- Frontend architecture built for accessibility and performance
-
----
-
-### Demuse
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://demuse-two.vercel.app/)
-
-A personal schedule and time-management platform, concept by [@mthutt](https://github.com/mthutt), built by [@DongDuong2001](https://github.com/DongDuong2001), for organizing classes, work shifts, meetings, and personal events.
-
-**Details**
-- Turned the original concept into a functioning web application
-- Schedule and event management workflows
-- Real-time countdowns for upcoming events
-- Automatic schedule conflict detection
-- Notification and reminder system
-- `.ics` calendar synchronization support
-
----
-
-## Engineering Principles
-
-- Build simple systems before scaling them
-- Keep architecture readable and maintainable
-- Design APIs and databases around actual user workflows
-- Use AI as an engineering assistant, not a replacement for fundamentals
-- Improve code quality through review, iteration, and documentation
-
----
-
-## Open Source Sponsorship
-
-| Platform        | Link |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitHub Sponsors | [![Sponsor GitHub](https://img.shields.io/badge/Sponsor_GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/sponsors/DongDuong2001)        |
-| Ko-fi           | [![Support Ko-fi](https://img.shields.io/badge/Support_Kofi-000000?style=for-the-badge\&logo=ko-fi\&logoColor=white)](https://ko-fi.com/dongphuduong)                       |
-| Buy Me a Coffee | [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge\&logo=buy-me-a-coffee\&logoColor=white)](https://www.buymeacoffee.com/lab68dev) |
-| PayPal          | [![PayPal](https://img.shields.io/badge/PayPal-000000?style=for-the-badge\&logo=paypal\&logoColor=white)](https://paypal.me/DDuong884)                                      |
-| Patreon         | [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge\&logo=patreon\&logoColor=white)](https://www.patreon.com/cw/DongDuong2001)                      |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DongDuong2001/DongDuong2001/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<a href="https://u8views.com/github/DongDuong2001">
-  <img src="https://u8views.com/api/v1/github/profiles/64120873/views/day-week-month-total-count.svg?style=for-the-badge&color=000000&labelColor=000000&logo=github&logoColor=white&label=Profile%20Views" />
-</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:333333,100:000000&section=footer"/>
-
-<div align="right">
-  <sub>Last updated: 17 August 2026 · <b>Duong Phu Dong</b></sub>
-</div>
+<sub>`REV 2026-11-11` · Three Bugs Studio · Ho Chi Minh City · if something here helped you, [sponsor](https://github.com/sponsors/DongDuong2001) or [buy a coffee](https://ko-fi.com/dongphuduong)</sub>
