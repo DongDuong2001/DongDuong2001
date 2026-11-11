@@ -12,13 +12,11 @@ Things the studio makes and maintains in the open.
 
 | No. | Product | What it is |
 | :-- | :------ | :--------- |
-| `P‑01` | **[3BCAD](https://github.com/Three-Bugs-Studio/3bcad)** · [guide](https://three-bugs-studio.github.io/3bcad/) | Open-source parametric 3D CAD in Rust, with a built-in 3D-print studio and assemblies. `v1.0.1` |
-| `P‑02` | **[3B Infrastructure](https://3binfrastructure.vercel.app)** | A hand-drawn notebook on system architecture, databases and software engineering courses. |
-| `P‑03` | **[PUDO](https://github.com/DongDuong2001/pudo-code-system)** | Plan → Understand → Develop → Optimize. A four-step workflow for building software with AI agents. |
+| `P‑01` | **[3BCAD](https://github.com/Three-Bugs-Studio/3bcad)** · [guide](https://three-bugs-studio.github.io/3bcad/) | Open-source parametric 3D CAD in Rust, with a built-in 3D-print studio and assemblies. `v1.0.1` <br><a href="https://unikorn.vn/p/3bcad?ref=embed-3bcad"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/3bcad?theme=light"><img src="https://unikorn.vn/api/widgets/badge/3bcad?theme=dark" alt="3BCAD on Unikorn" height="32"></picture></a> |
+| `P‑02` | **[3B Infrastructure](https://3binfrastructure.vercel.app)** | A hand-drawn notebook on system architecture, databases and software engineering courses. <br><a href="https://unikorn.vn/p/3b-infrastructure?ref=embed-3b-infrastructure"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/3b-infrastructure?theme=light"><img src="https://unikorn.vn/api/widgets/badge/3b-infrastructure?theme=dark" alt="3B Infrastructure on Unikorn" height="32"></picture></a> |
+| `P‑03` | **[PUDO](https://github.com/DongDuong2001/pudo-code-system)** | Plan → Understand → Develop → Optimize. A four-step workflow for building software with AI agents. <br><a href="https://unikorn.vn/p/pudo?ref=embed-pudo"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/pudo?theme=light"><img src="https://unikorn.vn/api/widgets/badge/pudo?theme=dark" alt="PUDO on Unikorn" height="32"></picture></a> |
 | `P‑04` | **[3beditor](https://github.com/Three-Bugs-Studio/3beditor)** | A Claude Code plugin that edits raw clips into TikTok, Reels and Shorts videos. |
 | `P‑05` | **[Workspace](https://github.com/Three-Bugs-Studio/threebugsworkspace)** | An open-source workspace for software studios and their clients. |
-
-<a href="https://unikorn.vn/p/3bcad?ref=embed-3bcad"><img src="https://unikorn.vn/api/widgets/badge/3bcad?theme=dark" alt="3BCAD on Unikorn" height="40"></a>
 
 ### `02 / work`
 
@@ -26,7 +24,7 @@ Built with partners and clients.
 
 | No. | Project | Role | Notes |
 | :-- | :------ | :--- | :---- |
-| `W‑01` | **[H1T MICRO](https://lehongkhanh.vn/)** | Backend, architecture | Nutrition and micronutrient platform. Next.js + Go, Supabase, PayOS. 2,500+ users. |
+| `W‑01` | **[H1T MICRO](https://lehongkhanh.vn/)** | Backend, architecture | Nutrition and micronutrient platform. Next.js + Go, Supabase, PayOS. 2,500+ users. <br><a href="https://unikorn.vn/p/h1t-micro?ref=embed-h1t-micro"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/h1t-micro?theme=light"><img src="https://unikorn.vn/api/widgets/badge/h1t-micro?theme=dark" alt="H1T MICRO on Unikorn" height="32"></picture></a> |
 | `W‑02` | **[Luvcraft](https://www.rmitvn-showcase.com/nightswatch10f37c09)** | Technical lead | RMIT capstone with industry partner Project Pluto. AI fandom intelligence and brand–IP matching. |
 | `W‑03` | **[FortifyKitchen](https://fortifykitchen.vercel.app/)** | Full-stack | Ordering and checkout for a high-protein meal-prep kitchen. |
 | `W‑04` | **[Demuse](https://demuse-two.vercel.app/)** | Full-stack | Schedule planner with conflict detection, reminders and `.ics` sync. |
