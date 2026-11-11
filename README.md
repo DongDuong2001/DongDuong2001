@@ -29,14 +29,6 @@ Built with partners and clients.
 | `W‑03` | **[FortifyKitchen](https://fortifykitchen.vercel.app/)** | Full-stack | Ordering and checkout for a high-protein meal-prep kitchen. |
 | `W‑04` | **[Demuse](https://demuse-two.vercel.app/)** | Full-stack | Schedule planner with conflict detection, reminders and `.ics` sync. |
 
-<details>
-<summary><code>older / lab68</code></summary>
-
-- **[lab68dev-platform](https://lab68devplatform.vercel.app/)**: a modular dev platform built from separate, replaceable modules.
-- **[lab68cv-builder](https://lab68cvbuilder.vercel.app/)**: a brutalist resume builder with pixel-exact PDF output.
-
-</details>
-
 ### `03 / log`
 
 ```text
