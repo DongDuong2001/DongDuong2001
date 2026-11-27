@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 56" width="1200" height="56" role="img" aria-label="Listed on Unikorn.vn">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#0e0e0e"/></pattern>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.14em;text-transform:uppercase}
+.s{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+</style>
+</defs>
+<clipPath id="c"><path d="M12 0H1200V44L1188 56H0V12Z"/></clipPath><path d="M12 0H1200V44L1188 56H0V12Z" fill="#050505"/><rect width="1200" height="56" fill="url(#scan)" clip-path="url(#c)"/><path d="M12 0H1200V44L1188 56H0V12Z" fill="none" stroke="#1c1c1c" stroke-width="2"/><path d="M1176 50H1188M1194 32V44" stroke="#E8112D" stroke-width="2"/><path d="M32 15H132.57999999999998V41H24V23Z" fill="#E8112D"/><text x="35" y="33" class="m" font-size="13" fill="#050505" font-weight="800">listed on</text><text x="148.57999999999998" y="33" class="m" font-size="13" fill="#888">unikorn.vn // vietnamese product directory</text><path d="M553 28H1080" stroke="#2c2c2c"/><g fill="#8a8a8a"><rect x="1096" y="18" width="3" height="20"/><rect x="1101" y="18" width="1" height="20"/><rect x="1104" y="18" width="1" height="20"/><rect x="1107" y="18" width="1" height="20"/><rect x="1111" y="18" width="1" height="20"/><rect x="1115" y="18" width="3" height="20"/><rect x="1120" y="18" width="2" height="20"/><rect x="1125" y="18" width="2" height="20"/><rect x="1128" y="18" width="1" height="20"/><rect x="1132" y="18" width="2" height="20"/><rect x="1137" y="18" width="1" height="20"/><rect x="1141" y="18" width="3" height="20"/><rect x="1147" y="18" width="1" height="20"/><rect x="1149" y="18" width="1" height="20"/><rect x="1151" y="18" width="3" height="20"/><rect x="1157" y="18" width="3" height="20"/><rect x="1161" y="18" width="1" height="20"/><rect x="1163" y="18" width="3" height="20"/></g>
+</svg>

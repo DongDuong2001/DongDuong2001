@@ -188,10 +188,20 @@ def rules():
     write("s-rules", w, h, "Rules. " + " ".join(f"{c}: {t}" for c, t in RULES), "".join(b))
 
 
+def listed():
+    """Label strip above the Unikorn badge table (the badges themselves are external images)."""
+    w, h = 1200, 56
+    t, tw = tag(24, 15, "listed on")
+    b = [frame(w, h, 12), t, m(24 + tw + 16, 33, 13, "unikorn.vn // vietnamese product directory", "#888"),
+         f'<path d="M{24 + tw + 16 + mono_w("unikorn.vn // vietnamese product directory", 13):.0f} 28H1080" stroke="#2c2c2c"/>',
+         barcode(1096, 18, 72, 20, "unikorn")]
+    write("s-listed", w, h, "Listed on Unikorn.vn", "".join(b))
+
+
 if __name__ == "__main__":
     for i, p in enumerate(PRODUCTS):
         product(p, wide=(i == 0))
     for wk in WORK:
         work(wk)
-    log(), stack(), rules()
+    log(), stack(), rules(), listed()
     print("sections written")

@@ -18,11 +18,7 @@ I run **[Three Bugs Studio](https://3bstudio.me)**, a small studio in Ho Chi Min
 <a href="https://github.com/Three-Bugs-Studio/threebugsworkspace"><img src="assets/s-p-workspace.svg" alt="P-05 Workspace: an open-source workspace for software studios and their clients" width="49%"></a>
 </p>
 
-<sub>3BCAD guide: [three-bugs-studio.github.io/3bcad](https://three-bugs-studio.github.io/3bcad/) &nbsp;·&nbsp; on Unikorn:</sub>
-
-<a href="https://unikorn.vn/p/3bcad?ref=embed-3bcad"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/3bcad?theme=light"><img src="https://unikorn.vn/api/widgets/badge/3bcad?theme=dark" alt="3BCAD on Unikorn" height="32"></picture></a>
-<a href="https://unikorn.vn/p/3b-infrastructure?ref=embed-3b-infrastructure"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/3b-infrastructure?theme=light"><img src="https://unikorn.vn/api/widgets/badge/3b-infrastructure?theme=dark" alt="3B Infrastructure on Unikorn" height="32"></picture></a>
-<a href="https://unikorn.vn/p/pudo?ref=embed-pudo"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/pudo?theme=light"><img src="https://unikorn.vn/api/widgets/badge/pudo?theme=dark" alt="PUDO on Unikorn" height="32"></picture></a>
+<sub>3BCAD guide: [three-bugs-studio.github.io/3bcad](https://three-bugs-studio.github.io/3bcad/)</sub>
 
 <img src="assets/h-02-work.svg" alt="02 Work" width="100%">
 
@@ -30,7 +26,15 @@ I run **[Three Bugs Studio](https://3bstudio.me)**, a small studio in Ho Chi Min
 <a href="https://lehongkhanh.vn/"><img src="assets/s-w-h1t.svg" alt="W-02 H1T MICRO, solution architect and backend: nutrition and micronutrient platform, Next.js + Go, Supabase, PayOS, 2,500+ users" width="100%"></a>
 <a href="https://www.rmitvn-showcase.com/nightswatch10f37c09"><img src="assets/s-w-luvcraft.svg" alt="W-03 Luvcraft, technical lead: RMIT capstone with Project Pluto, AI fandom intelligence and brand-IP matching" width="100%"></a>
 
-<a href="https://unikorn.vn/p/h1t-micro?ref=embed-h1t-micro"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/h1t-micro?theme=light"><img src="https://unikorn.vn/api/widgets/badge/h1t-micro?theme=dark" alt="H1T MICRO on Unikorn" height="32"></picture></a>
+<img src="assets/s-listed.svg" alt="Listed on Unikorn.vn" width="100%">
+
+<div align="center">
+
+| `P‑01` 3BCAD | `P‑02` 3B Infrastructure | `P‑03` PUDO | `W‑02` H1T MICRO |
+| :-: | :-: | :-: | :-: |
+| <a href="https://unikorn.vn/p/3bcad?ref=embed-3bcad"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/3bcad?theme=light"><img src="https://unikorn.vn/api/widgets/badge/3bcad?theme=dark" alt="3BCAD on Unikorn" height="32"></picture></a> | <a href="https://unikorn.vn/p/3b-infrastructure?ref=embed-3b-infrastructure"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/3b-infrastructure?theme=light"><img src="https://unikorn.vn/api/widgets/badge/3b-infrastructure?theme=dark" alt="3B Infrastructure on Unikorn" height="32"></picture></a> | <a href="https://unikorn.vn/p/pudo?ref=embed-pudo"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/pudo?theme=light"><img src="https://unikorn.vn/api/widgets/badge/pudo?theme=dark" alt="PUDO on Unikorn" height="32"></picture></a> | <a href="https://unikorn.vn/p/h1t-micro?ref=embed-h1t-micro"><picture><source media="(prefers-color-scheme: light)" srcset="https://unikorn.vn/api/widgets/badge/h1t-micro?theme=light"><img src="https://unikorn.vn/api/widgets/badge/h1t-micro?theme=dark" alt="H1T MICRO on Unikorn" height="32"></picture></a> |
+
+</div>
 
 <img src="assets/h-03-log.svg" alt="03 Log" width="100%">
 
