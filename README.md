@@ -1,8 +1,13 @@
 <img src="assets/banner.svg" alt="Duong Phu Dong, founder of Three Bugs Studio" width="100%">
 
-`FILE 3B-000 // PERSONNEL` &nbsp;·&nbsp; [3bstudio.me](https://3bstudio.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/duong-phu-dong/) &nbsp;·&nbsp; [Email](mailto:dongduong840@gmail.com) &nbsp;·&nbsp; [Portfolio](https://duongphudong2001.vercel.app/)
+<p>
+<a href="https://3bstudio.me"><img src="assets/s-btn-site.svg" alt="3bstudio.me" height="38"></a>
+<a href="https://www.linkedin.com/in/duong-phu-dong/"><img src="assets/s-btn-linkedin.svg" alt="LinkedIn" height="38"></a>
+<a href="mailto:dongduong840@gmail.com"><img src="assets/s-btn-email.svg" alt="Email" height="38"></a>
+<a href="https://duongphudong2001.vercel.app/"><img src="assets/s-btn-portfolio.svg" alt="Portfolio" height="38"></a>
+</p>
 
-I run **[Three Bugs Studio](https://3bstudio.me)**, a small studio in Ho Chi Minh City that builds websites and software, and ships its own open-source tools on the side. Final-year Software Engineering at RMIT Vietnam. I mostly work on the backend: APIs, databases, auth, and the pipelines that deploy them.
+<img src="assets/s-intro.svg" alt="I run Three Bugs Studio, a small studio in Ho Chi Minh City that builds websites and software, and ships its own open-source tools on the side. Final-year Software Engineering at RMIT Vietnam. I mostly work on the backend: APIs, databases, auth, and the pipelines that deploy them." width="100%">
 
 <img src="assets/activity.svg" alt="GitHub activity: contributions in the last 12 months, grade and committers.top Vietnam rank" width="100%">
 

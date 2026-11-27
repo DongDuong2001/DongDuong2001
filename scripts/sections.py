@@ -188,6 +188,48 @@ def rules():
     write("s-rules", w, h, "Rules. " + " ".join(f"{c}: {t}" for c, t in RULES), "".join(b))
 
 
+INTRO = [  # lines of the brief; segments wrapped in * are drawn in red
+    "I run *Three Bugs Studio*, a small studio in Ho Chi Minh City that builds",
+    "websites and software, and ships its own open-source tools on the side.",
+    "Final-year Software Engineering at RMIT Vietnam. I mostly work on the",
+    "backend: APIs, databases, auth, and the pipelines that deploy them.",
+]
+FACTS = [("base", "ho chi minh city"), ("school", "rmit vietnam"), ("focus", "backend / infra"), ("studio", "3bstudio.me")]
+LINKS = [("site", "3bstudio.me", True), ("linkedin", "linkedin", False), ("email", "email", False), ("portfolio", "portfolio", False)]
+
+
+BOLD = ' font-weight="700"'  # kept out of the f-string so older Pythons parse it
+
+
+def intro():
+    w, h = 1200, 250
+    t, tw = tag(24, 20, "brief")
+    b = [frame(w, h), t,
+         m(24 + tw + 16, 38, 13, "file 3b-000 // personnel // ", "#777")
+         + f'<text x="{24 + tw + 16 + mono_w("file 3b-000 // personnel // ", 13):.0f}" y="38" font-size="14" fill="{RED}" '
+           'font-family="Hiragino Sans,Yu Gothic,Meiryo,Noto Sans JP,sans-serif">概要</text>',
+         f'<path d="M24 60H1176" stroke="#2c2c2c"/><rect x="24" y="58" width="48" height="4" fill="{RED}"/>']
+    for i, ln in enumerate(INTRO):
+        parts = ln.split("*")
+        spans = "".join(f'<tspan fill="{RED if k % 2 else "#dcdcdc"}"{BOLD if k % 2 else ""}>{escape(p)}</tspan>'
+                        for k, p in enumerate(parts))
+        b.append(f'<text x="48" y="{110 + i * 34}" class="s" font-size="21">{spans}</text>')
+    b.append(f'<g stroke="{RED}" stroke-width="2" fill="none"><path d="M876 92V80H900M1150 80H1164V92M1164 208V220H1150M900 220H876V208"/></g>')
+    for i, (k, v) in enumerate(FACTS):
+        y = 116 + i * 28
+        b += [m(898, y, 11, k, "#5a5a5a"), m(990, y, 13, v, "#dcdcdc", ' font-weight="700"')]
+    write("s-intro", w, h, "Brief: " + " ".join(INTRO).replace("*", ""), "".join(b))
+
+
+def button(key, label, primary):
+    text = f"{label} ->"
+    w, h = int(mono_w(text, 15) + 44), 52
+    p = f"M10 0H{w}V{h-10}L{w-10} {h}H0V10Z"
+    body = (f'<path d="{p}" fill="{RED}"/>' if primary else
+            f'<path d="{p}" fill="#050505"/><path d="M10 1H{w-1}V{h-10}L{w-10} {h-1}H1V10Z" fill="none" stroke="{RED}" stroke-width="2"/>')
+    write(f"s-btn-{key}", w, h, label, body + m(22, 32, 15, text, "#050505" if primary else "#f4f4f4", ' font-weight="800"'))
+
+
 def listed():
     """Label strip above the Unikorn badge table (the badges themselves are external images)."""
     w, h = 1200, 56
@@ -204,4 +246,7 @@ if __name__ == "__main__":
     for wk in WORK:
         work(wk)
     log(), stack(), rules(), listed()
+    intro()
+    for key, label, primary in LINKS:
+        button(key, label, primary)
     print("sections written")

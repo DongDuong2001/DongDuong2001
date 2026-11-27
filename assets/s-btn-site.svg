@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199 52" width="199" height="52" role="img" aria-label="3bstudio.me">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#0e0e0e"/></pattern>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.14em;text-transform:uppercase}
+.s{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+</style>
+</defs>
+<path d="M10 0H199V42L189 52H0V10Z" fill="#E8112D"/><text x="22" y="32" class="m" font-size="15" fill="#050505" font-weight="800">3bstudio.me -&gt;</text>
+</svg>
