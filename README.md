@@ -28,7 +28,7 @@
 <img src="assets/h-02-work.svg" alt="02 Work" width="100%">
 
 <a href="https://sukajanrandomphitruong.com/"><img src="assets/s-w-phitruong.svg" alt="W-01 random.phitruong, full-stack: shop and order site for a Vietnamese sukajan jacket studio" width="100%"></a>
-<a href="https://lehongkhanh.vn/"><img src="assets/s-w-h1t.svg" alt="W-02 H1T MICRO, solution architect and backend: nutrition and micronutrient platform, Next.js + Go, Supabase, PayOS, 2,500+ users" width="100%"></a>
+<a href="https://lehongkhanh.vn/"><img src="assets/s-w-h1t.svg" alt="W-02 H1T MICRO, solution architect and backend: nutrition and micronutrient platform, Next.js + Go, Supabase, PayOS, 2,800+ users" width="100%"></a>
 <a href="https://www.rmitvn-showcase.com/nightswatch10f37c09"><img src="assets/s-w-luvcraft.svg" alt="W-03 Luvcraft, technical lead: RMIT capstone with Project Pluto, AI fandom intelligence and brand-IP matching" width="100%"></a>
 
 <img src="assets/s-listed.svg" alt="Listed on Unikorn.vn" width="100%">
@@ -43,7 +43,7 @@
 
 <img src="assets/h-03-log.svg" alt="03 Log" width="100%">
 
-<img src="assets/s-log.svg" alt="Log: 2026-11-17 3BCAD v1.2.0 released; 2026-11-06 H1T MICRO passes 2,500 users; 2026-09-22 Luvcraft final report submitted" width="100%">
+<img src="assets/s-log.svg" alt="Log: 2026-11-27 H1T MICRO passes 2,800 users; 2026-11-17 3BCAD v1.2.0 released; 2026-09-22 Luvcraft final report submitted" width="100%">
 
 <img src="assets/h-04-stack.svg" alt="04 Stack" width="100%">
 

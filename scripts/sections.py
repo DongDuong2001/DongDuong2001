@@ -33,12 +33,12 @@ WORK = [  # key, code, name, role, description lines, meta
     ("phitruong", "W-01", "random.phitruong", "full-stack",
      ["Shop and order site for a Vietnamese sukajan", "jacket studio: catalogue, cart, order requests."], "live // sukajan"),
     ("h1t", "W-02", "H1T MICRO", "solution architect, backend",
-     ["Nutrition and micronutrient platform.", "Next.js + Go, Supabase, PayOS."], "2,500+ users"),
+     ["Nutrition and micronutrient platform.", "Next.js + Go, Supabase, PayOS."], "2,800+ users"),
     ("luvcraft", "W-03", "Luvcraft", "technical lead",
      ["RMIT capstone with industry partner Project Pluto.", "AI fandom intelligence and brand-IP matching."], "rmit capstone"),
 ]
-LOG = [("2026-11-17", "3BCAD v1.2.0 released"),
-       ("2026-11-06", "H1T MICRO passes 2,500 users"),
+LOG = [("2026-11-27", "H1T MICRO passes 2,800 users"),
+       ("2026-11-17", "3BCAD v1.2.0 released"),
        ("2026-09-22", "Luvcraft final report submitted (tech lead, Team Nightswatch)")]
 STACK = [("daily", ["typescript", "rust", "go", "postgres", "supabase", "next.js", "docker", "linux"]),
          ("also", ["java", "python", "spring boot", "fastapi", "flutter", "github actions"])]
