@@ -4,6 +4,8 @@
 
 I run **[Three Bugs Studio](https://3bstudio.me)**, a small studio in Ho Chi Minh City that builds websites and software, and ships its own open-source tools on the side. Final-year Software Engineering at RMIT Vietnam. I mostly work on the backend: APIs, databases, auth, and the pipelines that deploy them.
 
+<img src="assets/activity.svg" alt="GitHub activity: contributions in the last 12 months, grade and committers.top Vietnam rank" width="100%">
+
 <img src="assets/h-01-products.svg" alt="01 Products" width="100%">
 
 Things the studio makes and maintains in the open.
