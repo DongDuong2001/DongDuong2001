@@ -19,7 +19,7 @@ HEAT = ["#141414", "#4a0710", "#7a0b18", "#b00e22", RED]
 QUERY = """query($login:String!){user(login:$login){
   followers{totalCount} pullRequests{totalCount} issues{totalCount}
   repositories(ownerAffiliations:OWNER,privacy:PUBLIC,isFork:false,first:100){nodes{stargazerCount}}
-  contributionsCollection{totalCommitContributions totalPullRequestReviewContributions
+  contributionsCollection{totalCommitContributions totalPullRequestReviewContributions restrictedContributionsCount
     contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}}}"""
 
 
@@ -50,7 +50,7 @@ def vn_rank():
 
 
 def grade(commits, prs, issues, reviews, stars, followers):
-    """Same weights and medians as github-readme-stats calculateRank (last-year commits)."""
+    """Same weights and medians as github-readme-stats calculateRank (last-year commits, private counted)."""
     exp = lambda x: 1 - 2 ** -x
     logn = lambda x: x / (1 + x)
     parts = [(2, exp(commits / 250)), (3, exp(prs / 50)), (1, exp(issues / 25)),
@@ -90,10 +90,11 @@ def build(u, rank, today):
     days = [d for w in weeks for d in w["contributionDays"]]
     commits = cc["totalCommitContributions"]
     reviews = cc["totalPullRequestReviewContributions"]
+    private = cc["restrictedContributionsCount"]  # GitHub only exposes private work as one undivided count
     prs, issues = u["pullRequests"]["totalCount"], u["issues"]["totalCount"]
     stars = sum(n["stargazerCount"] for n in u["repositories"]["nodes"])
     followers = u["followers"]["totalCount"]
-    lvl, pct = grade(commits, prs, issues, reviews, stars, followers)
+    lvl, pct = grade(commits + private, prs, issues, reviews, stars, followers)
     cur, longest = streaks(days)
     nz = sorted(d["contributionCount"] for d in days if d["contributionCount"])
     q = [nz[len(nz) * k // 4] for k in (1, 2, 3)] if nz else [0, 0, 0]
@@ -111,7 +112,7 @@ def build(u, rank, today):
     for i, (k, v) in enumerate([("commits", commits), ("pull reqs", prs), ("issues", issues), ("reviews", reviews)]):
         x = 430 + i * 118
         b += [m(x, 98, 11, k, "#5a5a5a"), m(x, 128, 22, f"{v:,}", "#dcdcdc", ' font-weight="700"')]
-    for i, (k, v) in enumerate([("streak", f"{cur} d"), ("longest", f"{longest} d")]):
+    for i, (k, v) in enumerate([("streak", f"{cur} d"), ("longest", f"{longest} d"), ("private", f"{private:,}")]):
         x = 430 + i * 118
         b += [m(x, 166, 11, k, "#5a5a5a"), m(x, 196, 22, v, "#dcdcdc", ' font-weight="700"')]
     if cur:  # live marker right after the current-streak value
