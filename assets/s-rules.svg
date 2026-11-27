@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 232" width="1200" height="232" role="img" aria-label="Rules. R-01: Build the simple version before the scalable one. R-02: Design the API and the schema around how people actually use the thing. R-03: AI writes code with me, not instead of knowing how.">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#0e0e0e"/></pattern>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.14em;text-transform:uppercase}
+.s{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+</style>
+</defs>
+<clipPath id="c"><path d="M16 0H1200V216L1184 232H0V16Z"/></clipPath><path d="M16 0H1200V216L1184 232H0V16Z" fill="#050505"/><rect width="1200" height="232" fill="url(#scan)" clip-path="url(#c)"/><path d="M16 0H1200V216L1184 232H0V16Z" fill="none" stroke="#1c1c1c" stroke-width="2"/><path d="M1176 226H1186M1194 208V218" stroke="#E8112D" stroke-width="2"/><path d="M48 34H100.47999999999999V60H40V42Z" fill="#E8112D"/><text x="51" y="52" class="m" font-size="13" fill="#050505" font-weight="800">R-01</text><text x="150" y="55" class="s" font-size="22" fill="#f4f4f4">Build the simple version before the scalable one.</text><path d="M40 82H1160" stroke="#1c1c1c"/><path d="M48 98H100.47999999999999V124H40V106Z" fill="#E8112D"/><text x="51" y="116" class="m" font-size="13" fill="#050505" font-weight="800">R-02</text><text x="150" y="119" class="s" font-size="22" fill="#f4f4f4">Design the API and the schema around how people actually use the thing.</text><path d="M40 146H1160" stroke="#1c1c1c"/><path d="M48 162H100.47999999999999V188H40V170Z" fill="#E8112D"/><text x="51" y="180" class="m" font-size="13" fill="#050505" font-weight="800">R-03</text><text x="150" y="183" class="s" font-size="22" fill="#f4f4f4">AI writes code with me, not instead of knowing how.</text>
+</svg>

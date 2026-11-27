@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Log: 2026-11-17 3BCAD v1.2.0 released; 2026-11-06 H1T MICRO passes 2,500 users; 2026-09-22 Luvcraft final report submitted (tech lead, Team Nightswatch)">
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#0e0e0e"/></pattern>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;letter-spacing:.14em;text-transform:uppercase}
+.s{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+</style>
+</defs>
+<clipPath id="c"><path d="M16 0H1200V194L1184 210H0V16Z"/></clipPath><path d="M16 0H1200V194L1184 210H0V16Z" fill="#050505"/><rect width="1200" height="210" fill="url(#scan)" clip-path="url(#c)"/><path d="M16 0H1200V194L1184 210H0V16Z" fill="none" stroke="#1c1c1c" stroke-width="2"/><path d="M1176 204H1186M1194 186V196" stroke="#E8112D" stroke-width="2"/><path d="M222 40V170" stroke="#2c2c2c" stroke-width="2"/><text x="48" y="66" class="m" font-size="14" fill="#E8112D" font-weight="700">2026-11-17</text><rect x="216" y="54" width="12" height="12" fill="#E8112D" stroke="#E8112D" stroke-width="2"/><text x="256" y="67" class="s" font-size="20" fill="#f4f4f4">3BCAD v1.2.0 released</text><text x="48" y="116" class="m" font-size="14" fill="#777" font-weight="700">2026-11-06</text><rect x="216" y="104" width="12" height="12" fill="#050505" stroke="#E8112D" stroke-width="2"/><text x="256" y="117" class="s" font-size="20" fill="#bdbdbd">H1T MICRO passes 2,500 users</text><text x="48" y="166" class="m" font-size="14" fill="#777" font-weight="700">2026-09-22</text><rect x="216" y="154" width="12" height="12" fill="#050505" stroke="#E8112D" stroke-width="2"/><text x="256" y="167" class="s" font-size="20" fill="#bdbdbd">Luvcraft final report submitted (tech lead, Team Nightswatch)</text>
+</svg>
